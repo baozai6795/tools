@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvue_ego"]=self["webpackChunkvue_ego"]||[]).push([[202],{202:function(e,u,n){n.r(u),n.d(u,{default:function(){return i}});var t=function(){var e=this;e._self._c;return e._m(0)},r=[function(){var e=this,u=e._self._c;return u("div",[u("h2",[e._v("订单列表")])])}],c={},f=c,s=n(1001),l=(0,s.Z)(f,t,r,!1,null,"afeecc40",null),i=l.exports}}]);
-//# sourceMappingURL=202.95ac27b7.js.map

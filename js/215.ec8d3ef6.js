@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvue_ego"]=self["webpackChunkvue_ego"]||[]).push([[215],{215:function(e,u,n){n.r(u),n.d(u,{default:function(){return i}});var t=function(){var e=this;e._self._c;return e._m(0)},r=[function(){var e=this,u=e._self._c;return u("div",[u("h2",[e._v("广告分类")])])}],s={},c=s,f=n(1001),l=(0,f.Z)(c,t,r,!1,null,"2132a5d8",null),i=l.exports}}]);
-//# sourceMappingURL=215.ec8d3ef6.js.map

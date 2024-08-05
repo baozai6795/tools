@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvue_ego"]=self["webpackChunkvue_ego"]||[]).push([[292],{7292:function(e,u,n){n.r(u),n.d(u,{default:function(){return i}});var t=function(){var e=this;e._self._c;return e._m(0)},r=[function(){var e=this,u=e._self._c;return u("div",[u("h2",[e._v("退回订单")])])}],f={},s=f,c=n(1001),l=(0,c.Z)(s,t,r,!1,null,"f32de454",null),i=l.exports}}]);
-//# sourceMappingURL=292.242e879b.js.map
